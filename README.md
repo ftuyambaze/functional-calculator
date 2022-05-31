@@ -1,2 +1,4 @@
-# functional.calculator
-This will contain a simple and functional calculator
+# FUNCTIONAL CALCULATOR
+This is the very best you've been waiting for
+# VISION
+To enable mathematicians to run basic calculations
